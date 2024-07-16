@@ -1,0 +1,9 @@
+com\connect\elastic\search\controller\BankController.class
+com\connect\elastic\search\controller\ProductController.class
+com\connect\elastic\search\entity\Bank.class
+com\connect\elastic\search\SearchApplication.class
+com\connect\elastic\search\service\ProductService.class
+com\connect\elastic\search\repository\ProductRepository.class
+com\connect\elastic\search\repository\BankRepository.class
+com\connect\elastic\search\entity\Product.class
+com\connect\elastic\search\service\BankService.class
